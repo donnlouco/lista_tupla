@@ -2,6 +2,6 @@
 
 frutas = ['morango', 'laranja', 'uva']
 
-frutas.insert(1, 'maça')
+frutas.insert(0, 'maça')
 
 print(frutas)
